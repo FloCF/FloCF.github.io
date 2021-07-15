@@ -1,6 +1,6 @@
 title: "Florian Carl's ML Research Blog"
 author: "Florian C.F. Schulz"
-description: "Made by <a href='https://github.com/niklasbuschmann/contrast'>niklasbuschmann</a>"
+description: "Blog theme from <a href='https://github.com/niklasbuschmann/contrast'>niklasbuschmann</a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
