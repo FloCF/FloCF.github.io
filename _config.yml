@@ -1,6 +1,6 @@
 title: "Florian Carl's ML Research Blog"
 author: "Florian C.F. Schulz"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "Made by <a href="https://github.com/niklasbuschmann/contrast">niklasbuschmann</a>"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,9 +20,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+  - {title: Mail, icon: envelope, url: "mailto:FloCF@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/FloCF"}
+  - {title: University, icon: university, url: "https://www.ml.tu-berlin.de/menue/machine_learning/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
